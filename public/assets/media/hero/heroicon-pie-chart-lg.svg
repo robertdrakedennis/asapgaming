@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-pie-chart heroicon heroicons-lg">
+    <path class="heroicon-pie-chart-slice-1 heroicon-component-fill" fill="#FFFFFF" d="M89.96 56H44V10.04A44 44 0 1 0 89.96 56z"></path>
+    <path class="heroicon-pie-chart-slice-2 heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M67.88 5.78L52 37.53V2.03a42.77 42.77 0 0 1 15.88 3.75z"></path>
+    <path class="heroicon-pie-chart-slice-3 heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M97.96 48a44 44 0 0 0-22.51-36.43L57.24 48h40.72z"></path>
+    <path class="heroicon-shadows" fill="#000000" d="M.01 55h.52a46.01 46.01 0 0 0 90.94 0H92A46 46 0 0 1 0 55zm59.23-11h38.35c.18 1.32.3 2.65.37 4H57.24l2-4z" opacity=".2"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M92 54A46 46 0 1 1 46 8v46h46zM70.51 4.82l.07.03L52 42l-2 4V0a45.77 45.77 0 0 1 20.51 4.82zM99.96 48c.03.66.04 1.33.04 2H54l1-2 18.68-37.36.9-1.8c.6.3 1.18.62 1.77.94A46 46 0 0 1 99.94 48zm-10 8H44V10.04A44 44 0 1 0 89.96 56zM67.88 5.78A42.77 42.77 0 0 0 52 2.04v35.49L67.88 5.78zM97.96 48a44 44 0 0 0-22.51-36.43L57.24 48h40.72zM28.1 18.22l.44.89a39.17 39.17 0 0 0-17.44 17.44l-.9-.44a40.17 40.17 0 0 1 17.9-17.9zM6.16 50.38c.32-3.5 1.08-6.87 2.24-10.05l.94.34a38.79 38.79 0 0 0-2.18 9.8l-1-.1zm-.12 5.44l1-.05c.05 1.18.16 2.35.31 3.5l-.99.14a40.23 40.23 0 0 1-.32-3.6zM92 43v1H73v-1h19z"></path>
+</svg>

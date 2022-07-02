@@ -1,0 +1,76 @@
+stages:
+  - test
+  - code_quality
+  - deploy
+
+
+variables:
+  MYSQL_ROOT_PASSWORD: root
+  MYSQL_PASSWORD: root
+  MYSQL_DATABASE: homestead
+  DB_HOST: mysql
+  MYSQL_USER: mysql
+
+cache:
+  key: $CI_COMMIT_REF_NAME
+  paths:
+    - vendor
+    - node_modules
+    - public
+    
+test:
+  stage: test
+  image: docker:stable
+  services:
+    - docker:stable-dind
+  script:
+    - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN registry.asapgaming.co
+    - docker build -t registry.asapgaming.co/infastructure/website-backend:$CI_COMMIT_SHA .
+    - docker push registry.asapgaming.co/infastructure/website-backend:$CI_COMMIT_SHA
+  artifacts:
+    paths:
+      - ./storage/logs
+    expire_in: 1 days
+    when: always
+
+code_quality:
+  image: docker:stable
+  variables:
+    DOCKER_DRIVER: overlay2
+  allow_failure: true
+  services:
+    - docker:stable-dind
+  script:
+    - export SP_VERSION=$(echo "$CI_SERVER_VERSION" | sed 's/^\([0-9]*\)\.\([0-9]*\).*/\1-\2-stable/')
+    - docker run
+        --env SOURCE_CODE="$PWD"
+        --volume "$PWD":/code
+        --volume /var/run/docker.sock:/var/run/docker.sock
+        "registry.gitlab.com/gitlab-org/security-products/codequality:$SP_VERSION" /code
+  artifacts:
+    reports:
+      codequality: gl-code-quality-report.json
+
+
+
+
+deploy_production:
+  stage: deploy
+  script:
+    - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+    - eval $(ssh-agent -s)
+    - ssh-add <(echo "$SSH_PRIVATE_KEY")
+    - mkdir -p ~/.ssh
+    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+    - ~/.composer/vendor/bin/envoy run deploy --commit="$CI_COMMIT_SHA"
+  environment:
+    name: production
+    url: http://158.69.123.213
+  when: manual
+  only:
+    - master
+  artifacts:
+    paths:
+      - ./storage/logs
+    expire_in: 1 days
+    when: always

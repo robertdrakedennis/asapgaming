@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-sign heroicon heroicons-lg">
+    <path class="heroicon-sign-post heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M44 0h12v12H44V0zm0 40h12v7H44v-7zm0 35h12v25H44V75z"></path>
+    <polygon class="heroicon-sign-bottom heroicon-component-fill" fill="#FFFFFF" points="14 47 86 47 86 75 14 75 0 61"></polygon>
+    <polygon class="heroicon-sign-top heroicon-component-fill" fill="#FFFFFF" points="0 12 86 12 100 26 86 40 0 40"></polygon>
+    <path class="heroicon-shadows" fill="#000000" d="M46 40h8v4h-8v-4zm0 35h8v4h-8v-4z" opacity=".2"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M86 12l12.59 12.59L100 26l-1.41 1.41L86 40H56v7h30v28H56v25H44V75H14L1.41 62.41 0 61l1.41-1.41L14 47h30v-7H0V12h44V0h12v12h30zM52 2v4h-1V2h-5v10h8V2h-2zm2 45v-7h-8v7h8zm0 28h-8v23h2V86h1v12h5V75zm31.17-61H2v2h72v1H2v14h18v1H2v6h83.17l12-12-12-12zM84 73V52H36v-1h48v-2H14.83l-12 12 12 12H84zM26 51h6v1h-6v-1z"></path>
+</svg>

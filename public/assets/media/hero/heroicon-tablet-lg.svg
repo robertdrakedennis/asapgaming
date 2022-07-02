@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-tablet heroicon heroicons-lg">
+    <rect class="heroicon-tablet-edge-outer heroicon-component-accent heroicon-component-fill" width="78" height="98" x="11" y="1" fill="#7ACFC0" rx="5"></rect>
+    <rect class="heroicon-tablet-edge-inner heroicon-component-accent heroicon-component-fill" width="74" height="94" x="13" y="3" fill="#7ACFC0" rx="3"></rect>
+    <rect class="heroicon-tablet-screen heroicon-component-fill" width="66" height="78" x="17" y="11" fill="#FFFFFF"></rect>
+    <rect class="heroicon-tablet-button heroicon-component-fill" width="10" height="3" x="45" y="91" fill="#FFFFFF" rx="1.5"></rect>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M10 6a6 6 0 0 1 6-6h68a6 6 0 0 1 6 6v88a6 6 0 0 1-6 6H16a6 6 0 0 1-6-6V6zm6-4a4 4 0 0 0-4 4v88a4 4 0 0 0 4 4h68a4 4 0 0 0 4-4V6a4 4 0 0 0-4-4H16zm-3 4a3 3 0 0 1 3-3h68a3 3 0 0 1 3 3v88a3 3 0 0 1-3 3H16a3 3 0 0 1-3-3V6zm3-2a2 2 0 0 0-2 2v88c0 1.1.9 2 2 2h68a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H16zm2 7h65v78H17V11h1zm64 1H18v76h64V12zM54.45 37.22l-10 20-.9-.44 10-20 .9.44zm1 6l-6 12-.9-.44 6-12 .9.44zM53 7v1h-6V7h6zm-6.5 84h7a1.5 1.5 0 0 1 0 3h-7a1.5 1.5 0 0 1 0-3zm7 1h-7a.5.5 0 1 0 0 1h7a.5.5 0 1 0 0-1z"></path>
+</svg>

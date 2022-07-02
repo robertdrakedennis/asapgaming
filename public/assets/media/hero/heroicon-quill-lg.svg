@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-quill heroicon heroicons-lg">
+    <polygon class="heroicon-quill-ink heroicon-component-fill" fill="#FFFFFF" points="13 79 23 79 23 73 20 73 20 69 38 69 38 73 35 73 35 79 45 79 50 84 44 100 14 100 8 84"></polygon>
+    <polygon class="heroicon-quill-feather heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" points="28 38 37 47 82 2 82 21 91 21 51 61 55 65 28 65"></polygon>
+    <polygon class="heroicon-quill-tip heroicon-component-fill" fill="#FFFFFF" points="29 65 37 65 33 69 25 69"></polygon>
+    <path class="heroicon-shadows" fill="#000000" d="M50 84l-6 16H14L8 84h42zM23 73h12v3H23v-3z" opacity=".2"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M27 36l10 10 27-27 5-5L83 0v20h10L52 61l5 5H37l-2 2h4v6h-3v4h9l6 6-6 16H13L7 84l6-6h9v-4h-3v-6h6l2-2V36zm-3 42h10v-4H24v4zm13-6v-2H21v2h16zm-23.17 8l-4 4h38.34l-4-4H13.83zM9.5 85l4.88 13H43.6l4.88-13H9.5zm18.32-17h4.34l2-2h-4.34l-2 2zm2.58-4H52.17l-3-3 22-22H55.41l-25 25zM37 48.83l-8-8V64l26-26 9-9v-7.17l-27 27zm28-28V28l4-4v-7.17l-4 4zM72.17 38l16-16H81v-8.59L56.41 38h15.76zM70 15.83V23l11-11V4.83l-11 11z"></path>
+</svg>

@@ -1,0 +1,30 @@
+.tippy-tooltip.navbar-mega-menu-theme {
+    padding: 0;
+    min-width: 340px;
+    text-align: left;
+    -webkit-box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
+    box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
+    background: #fff;
+    color: #212529;
+    border-radius: 3px;
+    .tippy-backdrop {
+        background: 0 0;
+    }
+    .tippy-arrow {
+        border-bottom-color: #fff;
+        &:after {
+            content: "";
+            -webkit-border-radius: 4px 0 0 0;
+            -moz-border-radius: 4px 0 0 0;
+            border-radius: 4px 0 0 0;
+            border-bottom: 7px solid #fff;
+            border-right: 7px solid transparent;
+            border-left: 7px solid transparent;
+            margin: 1px 0 0 -7px;
+            position: absolute;
+        }
+    }
+    .tippy-roundarrow{
+        fill: #FFF;
+    }
+}

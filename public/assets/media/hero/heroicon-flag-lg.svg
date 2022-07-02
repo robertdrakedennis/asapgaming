@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-flag heroicon heroicons-lg">
+    <polygon class="heroicon-flag-pole heroicon-component-fill" fill="#FFFFFF" points="11 11 11 99 5 99 5 11"></polygon>
+    <circle class="heroicon-flag-pole-top heroicon-component-accent heroicon-component-fill" cx="8" cy="6" r="5" fill="#7ACFC0"></circle>
+    <path class="heroicon-flag-background heroicon-component-fill" fill="#FFFFFF" d="M59 24h38L85 48l12 24H52a3 3 0 0 1-3-3V59H11V13h45a3 3 0 0 1 3 3v8z"></path>
+    <path class="heroicon-flag-stripes heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M49 22a3 3 0 0 1 3-3h7v6h-7a3 3 0 0 1-3-3zm-38-9h45a3 3 0 0 1 0 6H11v-6zm0 40h38v6H11v-6zm38-28h47l-3 6H49v-6zm0 40h44l3 6H52a3 3 0 0 1-3-3v-3z"></path>
+    <path class="heroicon-shadows" fill="#000000" d="M49 22a3 3 0 0 1 3-3h7v6h-7a3 3 0 0 1-3-3zm-1 0v37h-6l6-37z" opacity=".2"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M12 10.47V12h44a4 4 0 0 1 4 4v8h38l-1 2-11 22 11 22 1 2H52.01A4 4 0 0 1 48 68v-8H12v40H4V10.47A5.99 5.99 0 0 1 8 0a6 6 0 0 1 4 10.47zM8 10a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm2 1.66a5.99 5.99 0 0 1-4 0V98h4V11.66zM12 14v4h44a2 2 0 1 0 0-4H12zm0 5v34h36V22c0-1.2.52-2.27 1.35-3H12zm0 35v4h36v-4H12zm38 11h42.26l-8.05-16.1-.45-.9.45-.9L92.26 31H50v34zm42.76-35l2-4H52c-.73 0-1.41-.2-2-.54V30h42.76zM50 66v2c0 1.1.9 2 2 2h42.76l-2-4H50zm8-42v-4.54c-.59.35-1.27.54-2 .54h-4a2 2 0 1 0 0 4h6z"></path>
+</svg>

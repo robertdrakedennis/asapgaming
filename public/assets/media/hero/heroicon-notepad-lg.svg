@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-notepad heroicon heroicons-lg">
+    <rect class="heroicon-notepad-binding heroicon-component-accent heroicon-component-fill" width="78" height="16" fill="#7ACFC0"></rect>
+    <rect class="heroicon-notepad-pages heroicon-component-fill" width="78" height="84" y="16" fill="#FFFFFF"></rect>
+    <polygon class="heroicon-notepad-pen-housing heroicon-component-fill" fill="#FFFFFF" points="90 22 99 22 99 25 96 25 96 79 93 90 90 79"></polygon>
+    <path class="heroicon-notepad-pen-button heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M90 15h5v7s4-.24 4 0v3h-9V15z"></path>
+    <rect class="heroicon-notepad-pen-grip heroicon-component-accent heroicon-component-fill" width="6" height="24" x="90" y="55" fill="#7ACFC0"></rect>
+    <path class="heroicon-shadows" fill="#000000" d="M0 89h78v11H0V89zm58.07 0H58a9.97 9.97 0 0 0 2-6V71h16a18 18 0 0 1-17.93 18zM76 79.73V89h-9.27A20.08 20.08 0 0 0 76 79.73zM0 12h78v4H0v-4z" opacity=".2"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M78 0v100H0V0h78zm-2 12V2H2v10h74zM2 13v1h74v-1H2zm0 76h53.3a7.99 7.99 0 0 0 2.7-6V69h18V16H2v73zm56.07 0A18 18 0 0 0 76 71H60v12c0 2.25-.74 4.33-2 6h.07zM76 79.73A20.08 20.08 0 0 1 66.73 89H76v-9.27zM50 91H2v1h24v1H2v1h36v1H2v3h74v-5H46v-1h30v-1H50zm50-67v17a1 1 0 1 1-2 0V26h-1v53l-3 12h-2l-3-12V21h1v-7h6v7h2a2 2 0 0 1 2 2v1zm-3 0h1v-1h-7v1h6zm-2 1h-4v30h4V25zm-1-4v-5h-2v5h2zm1 35h-4v1h4v-1zm0 22v-1h-4v1h4zm-4-20v18h4V58h-4zm3.94 21h-3.88L93 86.75 94.94 79zM14 9h6v1h-6V9zm50 0v1h-6V9h6zm2 17v1H12v-1h54zm-2 3v1H12v-1h52zm-52 3h51v1H12v-1zm53 3v1H12v-1h53zm-53 3h34v1H12v-1zm52 5v1H12v-1h52zm-52 3h54v1H12v-1zm53 3v1H12v-1h53zm-53 3h44v1H12v-1zm54 5v1H12v-1h54zm-54 3h50v1H12v-1zm50 3v1H12v-1h50zm-50 3h18v1H12v-1z"></path>
+</svg>

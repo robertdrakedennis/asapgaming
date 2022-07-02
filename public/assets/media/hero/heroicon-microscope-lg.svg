@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-microscope heroicon heroicons-lg">
+    <path class="heroicon-microscope-base heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M48 92V78a12 12 0 1 0-24 0v14H14l-2 8h76l-2-8H48z"></path>
+    <rect class="heroicon-microscope-tube heroicon-component-accent heroicon-component-fill" width="14" height="24" x="51" y="21" fill="#7ACFC0"></rect>
+    <rect class="heroicon-microscope-stage heroicon-component-accent heroicon-component-fill" width="32" height="6" x="43" y="61" fill="#7ACFC0"></rect>
+    <path class="heroicon-microscope-arm heroicon-component-fill" fill="#FFFFFF" d="M50 80h4v-4h6v5.99A4 4 0 0 1 56 86h-6v2h-2V78a12 12 0 0 0-15-11.62V35A9 9 0 0 1 42 26h9v14h-2v-3a5 5 0 0 0-10 0v24a4 4 0 0 0 4 4v2h7v13zm-14 1a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"></path>
+    <polygon class="heroicon-microscope-ocular heroicon-component-fill" fill="#FFFFFF" points="55 0 61 0 61 9 63 11 63 21 53 21 53 11 55 9"></polygon>
+    <polygon class="heroicon-microscope-lens heroicon-component-fill" fill="#FFFFFF" points="61 51 61 57 55 57 55 51 53 51 53 45 63 45 63 51"></polygon>
+    <rect class="heroicon-microscope-mirror heroicon-component-accent heroicon-component-fill" width="14" height="5" x="50" y="71" fill="#7ACFC0"></rect>
+    <path class="heroicon-shadows" fill="#000000" d="M54 44h8v4h-8v-4zM43 66h8v4h-8v-4zm12 9h4v4h-4v-4z" opacity=".2"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M61 9l2 2v10h2v24h-2v6h-2v6h-6v-6h-2v-6h-2v-3h-4v-5a3 3 0 0 0-6 0v24c0 1.1.9 2 2 2v-2h32v6H52v4h12v5h-4v6a4 4 0 0 1-4 4h-4v4h-4v2h37.9l1.57 6 .53 2H12l.53-2 1.58-6H24V78a12 12 0 0 1 7.02-10.92H31V35.02A11 11 0 0 1 42 24h9v-3h2V11l2-2V0h6v9zm-9 73v2h4a2 2 0 0 0 2-2v-6h-2v6h-4zm2-2v-4h-2v4h2zm8-6v-1H52v1h10zM50 86V67h-7v-2a4 4 0 0 1-4-4V37a5 5 0 1 1 10 0v3h2V26h-9a9 9 0 0 0-9 9.01v31.37A12.03 12.03 0 0 1 48 78v10h2v-2zm9-37h2v-4h-6v4h4zm-2 6h2v-4h-2v4zm6-31v-1H53v1h10zm0 1H53v16h10V25zM53 43h10v-1H53v1zm8-22v-9h-6v9h6zm-1.41-10.59l-.42-.41h-2.34l-.42.41-.58.59h4.34l-.58-.59zM57 9h2V2h-2v7zM46 78a10 10 0 1 0-20 0v14h20V78zM15.65 94l-.53 2h69.76l-.53-2h-68.7zm-1.06 4h70.82l-.27-1H14.86l-.27 1zM45 65h28v-2H45v2zM35 35v12h-1V35h1zm1 46a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm2-3a2 2 0 1 0-4 0 2 2 0 0 0 4 0z"></path>
+</svg>

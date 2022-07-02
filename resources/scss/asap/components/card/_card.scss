@@ -1,0 +1,46 @@
+
+@media (min-width: 320px) {
+    .card-img-fade::before{
+        bottom: 0;
+        content: "";
+        height: 100%;
+        left: 0;
+        pointer-events: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 100%;
+        background: radial-gradient(ellipse at top,rgba(54,57,63,0),#2c2f33),-webkit-gradient(linear,left top,right top,from(#2c2f33),color-stop(40%,rgba(54,57,63,0)),color-stop(65%,rgba(54,57,63,0)),to(#2c2f33)),-webkit-gradient(linear,left bottom,left top,color-stop(35%,#2c2f33),color-stop(100%,rgba(54,57,63,0)));
+        background: radial-gradient(ellipse at top,rgba(54,57,63,0),#2c2f33),linear-gradient(90deg,#2c2f33 0,rgba(54,57,63,0) 40%,rgba(54,57,63,0) 65%,#2c2f33),linear-gradient(0deg,#2c2f33 35%,rgba(54,57,63,0) 100%)
+    }
+}
+@media (min-width: 768px) {
+    .card-img-fade::before{
+        bottom: 0;
+        content: "";
+        height: 100%;
+        left: 0;
+        pointer-events: none;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 100%;
+        background: radial-gradient(ellipse at top,rgba(54,57,63,0),#2c2f33),-webkit-gradient(linear,left top,right top,from(#2c2f33),color-stop(40%,rgba(54,57,63,0)),color-stop(65%,rgba(54,57,63,0)),to(#2c2f33)),-webkit-gradient(linear,left bottom,left top,color-stop(75%,#2c2f33),color-stop(100%,rgba(54,57,63,0)));
+        background: radial-gradient(ellipse at top,rgba(54,57,63,0),#2c2f33),linear-gradient(90deg,#2c2f33 0,rgba(54,57,63,0) 40%,rgba(54,57,63,0) 65%,#2c2f33),linear-gradient(0deg,#2c2f33 75%,rgba(54,57,63,0) 100%)
+    }
+}
+
+
+.card-img-fade-server::before{
+    bottom: 0;
+    content: "";
+    height: 100%;
+    left: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    background: radial-gradient(ellipse at top,rgba(54,57,63,0),#2c2f33),-webkit-gradient(linear,left top,right top,from(#2c2f33),color-stop(40%,rgba(54,57,63,0)),color-stop(65%,rgba(54,57,63,0)),to(#2c2f33)),-webkit-gradient(linear,left bottom,left top,color-stop(35%,#2c2f33),color-stop(65%,rgba(54,57,63,0)));
+    background: radial-gradient(ellipse at top,rgba(54,57,63,0),#2c2f33),linear-gradient(90deg,#2c2f33 0,rgba(54,57,63,0) 40%,rgba(54,57,63,0) 65%,#2c2f33),linear-gradient(0deg,#2c2f33 35%,rgba(54,57,63,0) 65%)
+}

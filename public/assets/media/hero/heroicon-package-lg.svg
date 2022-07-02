@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-package heroicon heroicons-lg">
+    <path class="heroicon-package-box heroicon-component-fill" fill="#FFFFFF" d="M4 20h92v78H4V20zm31 18a4 4 0 0 0 4 4h22a4 4 0 1 0 0-8H39a4 4 0 0 0-4 4z"></path>
+    <rect class="heroicon-package-lid heroicon-component-accent heroicon-component-fill" width="98" height="18" x="1" y="1" fill="#7ACFC0"></rect>
+    <path class="heroicon-package-handle heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M39 29h22a9 9 0 1 1 0 18H39a9 9 0 1 1 0-18zm-4 9a4 4 0 0 0 4 4h22a4 4 0 1 0 0-8H39a4 4 0 0 0-4 4z"></path>
+    <polygon class="heroicon-shadows" fill="#000000" points="96 18 98 18 98 15 2 15 2 18 4 18 4 22 96 22 96 18" opacity=".2"></polygon>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M0 2C0 .9.9 0 2 0h96a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2v78a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V20a2 2 0 0 1-2-2V2zm98 16V2H2v13h35v1H2v2h96zM4 20v78h92V20H4zm45-5h36v1H49v-1zm-4 0v1h-4v-1h4zm-6 14h22a9 9 0 1 1 0 18H39a9 9 0 1 1 0-18zm-8 9a8 8 0 0 0 8 8h22a8 8 0 0 0 0-16H39a8 8 0 0 0-8 8zm8-6h22a6 6 0 0 1 0 12H39a6 6 0 0 1 0-12zm-4 6a4 4 0 0 0 4 4h22a4 4 0 1 0 0-8H39a4 4 0 0 0-4 4z"></path>
+</svg>

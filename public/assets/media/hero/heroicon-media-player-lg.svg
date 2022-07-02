@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-media-player heroicon heroicons-lg">
+    <rect class="heroicon-media-player-chrome heroicon-component-accent heroicon-component-fill" width="100" height="80" y="10" fill="#7ACFC0" rx="4"></rect>
+    <rect class="heroicon-media-player-video heroicon-component-fill" width="92" height="64" x="4" y="14" fill="#FFFFFF"></rect>
+    <circle class="heroicon-media-player-play-circle heroicon-component-accent heroicon-component-fill" cx="50" cy="46" r="14" fill="#7ACFC0"></circle>
+    <polygon class="heroicon-media-player-play-symbol heroicon-component-fill" fill="#FFFFFF" points="46 40 56 46 46 52"></polygon>
+    <path class="heroicon-media-player-controls heroicon-component-fill" fill="#FFFFFF" d="M4 80l6 3-6 3v-6zm8 1h66v4H12v-4zm68 0h4v4h-4v-4zm6 0h4v4h-4v-4zm6 0h4v4h-4v-4z"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M0 14a4 4 0 0 1 4-4h92a4 4 0 0 1 4 4v72a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V14zm2 0v72c0 1.11.9 2 2 2h92a2 2 0 0 0 2-2V14a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2zm2 0h92v64H4V14zm1 1v62h90V15H5zm59 31a14 14 0 1 1-28 0 14 14 0 0 1 28 0zM50 58a12 12 0 1 0 0-24 12 12 0 0 0 0 24zM40 46a10 10 0 0 1 10-10v1a9 9 0 0 0-8.05 13.03l-.9.44A9.96 9.96 0 0 1 40 46zm6-6l1 .6 8.03 4.82.97.58-.97.58L47 51.4l-1 .6V40zm1 10.23L54.06 46 47 41.77v8.46zM12 81h66v4H12v-4zm1 1v2h64v-2H13zm68-1h3v4h-4v-4h1zm2 1h-2v2h2v-2zm3-1h4v4h-4v-4zm1 1v2h2v-2h-2zm6-1h3v4h-4v-4h1zm2 1h-2v2h2v-2zm-91-.88V80l1 .5 3.88 1.94L10 83l-1.12.56L5 85.5 4 86v-4.88zM7.76 83L5 81.62v2.76L7.76 83z"></path>
+</svg>

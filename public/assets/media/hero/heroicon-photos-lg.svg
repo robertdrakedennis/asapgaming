@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-photos heroicon heroicons-lg">
+    <path class="heroicon-photos-edge heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M12 75H1V13h86v11h13v64H12V75zm69-51v-5H7v50h5V24h69zm-62 7v50h74V31H19z"></path>
+    <polygon class="heroicon-photos-back-background heroicon-component-fill" fill="#FFFFFF" points="81 19 7 19 7 69 13 69 13 25 81 25"></polygon>
+    <rect class="heroicon-photos-front-ground heroicon-component-fill" width="74" height="11" x="19" y="70" fill="#FFFFFF"></rect>
+    <polygon class="heroicon-photos-front-sky heroicon-component-fill" fill="#FFFFFF" points="62 54 72 44 92 64 92 32 20 32 20 68 48 40"></polygon>
+    <path class="heroicon-photos-front-sun heroicon-component-fill" fill="#FFFFFF" d="M65 41a4 4 0 1 1-8 0 4 4 0 0 1 8 0z"></path>
+    <path class="heroicon-photos-front-mountainsheroicon-component-fill" fill="#FFFFFF" d="M62.7 54.7l9.3-9.29 20 20V70H78L62.7 54.7zM76.6 70H20v-.59l28-28L76.59 70z"></path>
+    <path class="heroicon-shadows" fill="#000000" d="M12 22h-2v54h4V26h74v-4H12z" opacity=".2"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M0 12h88v12h12v64H12V76H0V12zm12 62v-4H6V18h76v6h4V14H2v60h10zm68-50v-4H8v48h4V24h68zm-66 2v60h84V26H14zm4 6v-2h76v52H18V32zm44 22l10-10 20 20V32H20v36l28-28 14 14zm-1-8a5 5 0 1 1 0-10 5 5 0 0 1 0 10zm4-5a4 4 0 1 0-8 0 4 4 0 0 0 8 0zm-2.3 13.7L78 70h14v-4.59l-20-20-9.3 9.3zM77.6 71H20v9h72v-9H77.59zM86 73v1H62v-1h24zm-9.41-3L48 41.41l-28 28V70h56.59z"></path>
+</svg>

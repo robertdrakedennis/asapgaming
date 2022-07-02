@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-credit-card heroicon heroicons-lg">
+    <rect class="heroicon-credit-card-background heroicon-component-fill" width="98" height="62" x="1" y="19" fill="#FFFFFF"></rect>
+    <rect class="heroicon-credit-card-stripe heroicon-component-accent heroicon-component-fill" width="98" height="10" x="1" y="29" fill="#7ACFC0"></rect>
+    <rect class="heroicon-credit-card-code heroicon-component-accent heroicon-component-fill" width="10" height="6" x="55" y="48" fill="#7ACFC0"></rect>
+    <rect class="heroicon-credit-card-mark heroicon-component-accent heroicon-component-fill" width="16" height="12" x="6" y="60" fill="#7ACFC0" rx="2"></rect>
+    <rect class="heroicon-credit-card-signature heroicon-component-fill" width="50" height="10" x="6" y="46" fill="#FFFFFF"></rect>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M0 38V24a6 6 0 0 1 6-6h88a6 6 0 0 1 6 6v52a6 6 0 0 1-6 6H6a6 6 0 0 1-6-6V38zm94-18H6a4 4 0 0 0-4 4v4h96v-4a4 4 0 0 0-4-4zM2 38h96v-8H2v8zm0 2v36a4 4 0 0 0 4 4h88a4 4 0 0 0 4-4V40H2zm54 15v1H6V46h50v2h9v6h-9v1zM7 47v8h48v-8H7zm49 6h8v-4h-8v4zm-30 7h48v1H26v-1zm1 2h59v1H26v-1h1zm-1 2h54v1H26v-1zm1 2h33v1H26v-1h1zm-1 6h34v1H26v-1zM7 44h23v1H6v-1h1zM6 62c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2v-8zm2-1a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1H8z"></path>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-desktop heroicon heroicons-lg">
+    <path class="heroicon-desktop-screen-edge heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M0 6a6 6 0 0 1 6-6h88a6 6 0 0 1 6 6v60H0V6zm5 0v56h90V6a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1z"></path>
+    <path class="heroicon-desktop-screen heroicon-component-fill" fill="#FFFFFF" d="M5 6a1 1 0 0 1 1-1h88a1 1 0 0 1 1 1v56H5V6z"></path>
+    <path class="heroicon-desktop-stand heroicon-component-fill" fill="#FFFFFF" d="M66.45 80h27.56a6 6 0 0 0 5.99-6v-8H0v8a6 6 0 0 0 6 6h27.55l-3.19 14H20v6h60v-6H69.64l-3.19-14z"></path>
+    <polygon class="heroicon-shadows" fill="#000000" points="31.5 89 34 78 66 78 68.5 89" opacity=".2"></polygon>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M33.56 80H6a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6h88a6 6 0 0 1 6 6v68a6 6 0 0 1-6 6H66.44l3.12 14H80v6H20v-6h10.44l3.12-14zM6 2a4 4 0 0 0-4 4v59h96V6a4 4 0 0 0-4-4H6zM2 66v8a4 4 0 0 0 4 4h88a4 4 0 0 0 4-4v-8H2zm33.6 14l-3.1 14h35l-3.1-14H35.6zM30 96h-8v2h56v-2H30zM5 6a1 1 0 0 1 1-1h88a1 1 0 0 1 1 1v56H5V6zm1 0v55h88V6H6zm37.55 37.78l10-20 .9.44-10 20-.9-.44zm11.9-13.56l-6 12-.9-.44 6-12 .9.44z"></path>
+</svg>

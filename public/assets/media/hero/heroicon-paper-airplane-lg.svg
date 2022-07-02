@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-paper-airplane heroicon heroicons-lg">
+    <polygon class="heroicon-paper-airplane-background heroicon-component-fill" fill="#FFFFFF" points="93.75 87.5 100 100 60 84 50 100 40 84 0 100 6.25 87.5 18.75 62.5 50 0 81.25 62.5"></polygon>
+    <path class="heroicon-paper-airplane-stripes heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M90.28 85.04L58.62 72.37l-2.24-18.74 22.75 9.1 11.15 22.3zm-46.66-31.4l-2.24 18.73L9.72 85.04l11.15-22.31 22.75-9.1z"></path>
+    <polygon class="heroicon-shadows" fill="#000000" points="50 0 60 84 50 100 40 84" opacity=".2"></polygon>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M93.75 87.5L100 100 60 84l-10 16-10-16-40 16 6.25-12.5 12.5-25L50 0l31.25 62.5 12.5 25zm2.1 8.69l-4.9-9.8-32.2-12.89.98 8.24 36.13 14.45zm-5.57-11.15L79.13 62.73l-22.75-9.1 2.24 18.74 31.66 12.67zM78.45 61.38L50.7 5.87l5.55 46.63 22.2 8.88zM41.25 73.5L9.05 86.38l-4.9 9.8 36.12-14.44.98-8.24zm2.37-19.87l-22.75 9.1-11.15 22.3 31.66-12.66 2.24-18.74zM49.3 5.87L21.55 61.38l22.2-8.88L49.3 5.87zM49 94.63V25.32l-6.93 58.22L49 94.63zm2 0l6.93-11.1L51 25.33v69.3z"></path>
+</svg>

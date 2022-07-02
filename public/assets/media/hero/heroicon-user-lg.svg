@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-user heroicon heroicons-lg">
+    <path class="heroicon-user-top heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M60 72a10 10 0 1 1-20 0v-5.76L16.27 78.1A8.65 8.65 0 0 0 12 85v13h76V85a8.65 8.65 0 0 0-4.27-6.9L60 66.24V72z"></path>
+    <path class="heroicon-user-face heroicon-component-fill" fill="#FFFFFF" d="M42 60.5V72a8 8 0 1 0 16 0V60.5A22 22 0 0 0 72 40V24a22 22 0 0 0-44 0v16a22 22 0 0 0 14 20.5z"></path>
+    <path class="heroicon-shadows" fill="#000000" d="M40 61.82V64l-8.74 4.37A33.84 33.84 0 0 0 50 74c6.93 0 13.37-2.07 18.74-5.63L60 64v-2.18A23.91 23.91 0 0 1 50 64c-3.57 0-6.96-.78-10-2.18z" opacity=".2"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M40 61.82a24 24 0 0 1-14-21.81V23.99a24 24 0 0 1 48 0v16.02a24 24 0 0 1-14 21.82V64l24.63 12.31c2.96 1.49 5.37 5.37 5.37 8.7V100H10V85c0-3.31 2.4-7.2 5.37-8.69L40 64v-2.18zm2 .81V72a8 8 0 1 0 16 0v-9.36a23.97 23.97 0 0 1-16 0zm18 3.6V72a10 10 0 1 1-20 0v-5.76L16.27 78.1A8.65 8.65 0 0 0 12 85v13h8v-6h1v6h58v-6h1v6h8V85a8.65 8.65 0 0 0-4.27-6.9L60 66.24zM28 24v16.02a22 22 0 0 0 44 0V23.99a22 22 0 0 0-44 0zm5.9-8.04A18 18 0 0 1 50 6v1a17 17 0 0 0-15.2 9.4l-.9-.45z"></path>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-book heroicon heroicons-lg">
+    <path class="heroicon-book-cover heroicon-component-fill" fill="#FFFFFF" d="M89 75H15v10h10v4h-9a5 5 0 0 1-5-5V6a5 5 0 0 1 5-5h73v74zM39 85h50v4H39v-4z"></path>
+    <path class="heroicon-book-binding heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M25 71V1h-9a5 5 0 0 0-5 5v69l4-4h10z"></path>
+    <rect class="heroicon-book-pages heroicon-component-fill" width="72" height="10" x="15" y="75" fill="#FFFFFF"></rect>
+    <polygon class="heroicon-book-bookmark heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" points="24 77 40 77 40 99 32 95 24 99"></polygon>
+    <path class="heroicon-shadows" fill="#000000" d="M11 75.99A4.99 4.99 0 0 1 16 71h73v4h-2v10h2v4H39v-7H25v7h-9a5 5 0 0 1-5-4.99v-8.02z" opacity=".2"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M24 90h-8a6 6 0 0 1-6-6V6A6 6 0 0 1 16 0h74v76h-2v8h2v6H40v10l-8-4-8 4V90zM88 2H20v66h-1V2h-2v66h-1V2a4 4 0 0 0-4 4.01v65.52A5.97 5.97 0 0 1 16 70h72V2zM16 72a4 4 0 0 0-4 4V84A4 4 0 0 0 16 88h8v-2h-8a2 2 0 0 1-2-2v-8c0-1.1.9-2 2-2h72v-2H16zm24 16h48v-2H40v2zm0-4h46v-1H40v1zm0-2h46v-1H58v-1h28v-2H40v4zm-2-4H26v18.76l6-3 6 3V78zm-14 0h-6v-1h68v-1H16v8h8v-6zm0-76h2v68h-2V2zm18 18h31v2H41v-2h1zm3 5h24v2H45v-2z"></path>
+</svg>

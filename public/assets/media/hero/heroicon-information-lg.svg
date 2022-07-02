@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" class="heroicon-information heroicon heroicons-lg">
+    <path class="heroicon-information-edge heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M50 100A50 50 0 1 1 50 0a50 50 0 0 1 0 100zm0-8a42 42 0 1 0 0-84 42 42 0 0 0 0 84z"></path>
+    <path class="heroicon-information-background heroicon-component-fill" fill="#FFFFFF" d="M50 92a42 42 0 1 1 0-84 42 42 0 0 1 0 84z"></path>
+    <path class="heroicon-information-symbol heroicon-component-accent heroicon-component-fill" fill="#7ACFC0" d="M50 39a10 10 0 1 1 0-20 10 10 0 0 1 0 20zm-8 12h-6v-8h22v26h6v8H36v-8h6V51z"></path>
+    <path class="heroicon-outline" fill="#4A4A4A" fill-rule="nonzero" d="M50 100A50 50 0 1 1 50 0a50 50 0 0 1 0 100zm0-2a48 48 0 1 0 0-96 48 48 0 0 0 0 96zm0-6a42 42 0 1 1 0-84 42 42 0 0 1 0 84zm0-2a40 40 0 1 0 0-80 40 40 0 0 0 0 80zm0-76v1a34.89 34.89 0 0 0-24.75 10.25l-.7-.7A35.89 35.89 0 0 1 50 14zM17.8 33.9a36 36 0 0 1 3.4-5.5l.8.6a35 35 0 0 0-3.31 5.34l-.9-.44zM16 38.1l.95.33A34.95 34.95 0 0 0 15 50c0 5.63 1.33 10.95 3.69 15.66l-.9.44A35.85 35.85 0 0 1 14 50c0-4.17.7-8.17 2.01-11.9zM50 39a10 10 0 1 1 0-20 10 10 0 0 1 0 20zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm-8 14h-6v-8h22v26h6v8H36v-8h6V51zm-4 24h24v-4h-6V45H38v4h6v22h-6v4zm9-26v12h-1V49h1z"></path>
+</svg>
